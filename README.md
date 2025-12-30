@@ -1,1 +1,1 @@
-# car_price_predictor
+# Machine Learning project on Car Price Predictor
